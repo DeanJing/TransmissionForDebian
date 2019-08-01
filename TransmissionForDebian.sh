@@ -38,6 +38,7 @@ read -p "Set port(1989):" port
 if [ "$port" = "" ]; then
 	port="1989"
 fi
+
     get_char()
     {
     SAVEDSTTY=`stty -g`
