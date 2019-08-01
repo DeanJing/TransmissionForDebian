@@ -1,0 +1,2 @@
+# TransmissionForDebian
+Transmission一键脚本，适用于Debian8
