@@ -78,4 +78,5 @@ echo " "
 echo "Web GUI: http://your ip:$port/"
 echo "username: $username"
 echo "password: $password"
-echo -e "\033[注意：请在VPS安全组以及BT面板里打开端口1989和51413\033[0m"
+echo -e "\033[31m注意：请在VPS安全组以及BT面板里打开端口1989和51413\033[0m"
+
