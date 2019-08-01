@@ -59,7 +59,7 @@ apt-get -y install transmission-daemon
 
 # SETTINGS.JSON
 /etc/init.d/transmission-daemon stop
-wget --no-check-certificate https://github.com/DeanJing/TransmissionForDebian/blob/master/settings.json
+wget --no-check-certificate https://raw.githubusercontent.com/DeanJing/TransmissionForDebian/master/settings.json
 chmod +x settings.json
 mkdir -p /var/lib/transmission-daemon/info
 mv -f settings.json /var/lib/transmission-daemon/info/
