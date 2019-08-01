@@ -2,6 +2,11 @@
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
+echo -e "\033[31m =============================================================\033[0m"
+echo -e "\033[33m  脚本名：  Transmission一键脚本 for Debian \033[0m"
+echo -e "\033[33m *原作者：@http://dadi.me/ dadi.ME \033[0m"
+echo -e "\033[33m *此脚本发布在 http://vpsoff.com \033[0m"
+echo -e "\033[31m =============================================================\033[0m"
 # http://dadi.me/ dadi.ME
 # 2013.03.30
 # Mod by zhujiwiki.com , 2018.07.06
