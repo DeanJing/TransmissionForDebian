@@ -1,5 +1,6 @@
 # TransmissionForDebian
 Transmission一键脚本，适用于Debian8
+原文：http://www.vpsoff.com/974.html
 ### 本人重新改的全自动脚本，装完即可用本地GUI连接
 > github地址：https://github.com/DeanJing/TransmissionForDebian
 - 自动配置setting文件，关闭DHT，关闭本地连接白名单；
